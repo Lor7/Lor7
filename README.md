@@ -29,6 +29,9 @@ class Human:
         """
         return [
             "CUDA",
+            "OpenMP",
+            "Dart",
+            "Flutter",
             "Julia",
             "🎯 Algorithms & Competitive Programming"
         ]
