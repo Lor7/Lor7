@@ -16,7 +16,7 @@ class Human:
         return [
             "🤖 Embedded Systems (ESP32, Arduino, RPi, real-world interfacing, low-level programming)",
             "🤖 Robotics (Sensors and Actuators interfacing, ROS2 fundamentals, Automation concepts)"
-            "🧠 Machine Learning (OpenCV, Edge TPU, TensorFlow basics, PyTorch basics)",
+            "🧠 Machine Learning (OpenCV, Edge TPU, TensorFlow basics, PyTorch basics, RAG)",
             "📊 Data (NumPy, Pandas, Matplotlib, Seaborn)",
             "🧱 C++ Add-ons (Dear ImGui)",
             "🎮 Game Dev (Basics of Unity)",
@@ -32,7 +32,6 @@ class Human:
             "OpenMP",
             "Dart",
             "Flutter",
-            "Julia",
             "🎯 Algorithms & Competitive Programming"
         ]
 
