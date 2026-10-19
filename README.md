@@ -1,38 +1,34 @@
-```python
 # github.com/Lor7
+
+```python
+# [github.com/Lor7](https://github.com/Lor7)
 
 class Human:
     def __init__(self):
-        self.birth_year = 2006
         self.nationality = "🇮🇹"
-        self.status = "🎓 High School Graduate (Scientifico Scienze Applicate)"
-        self.next_stop = "🎓 BSc in Artificial Intelligence (ACSAI @ Sapienza, 2025)"
-        self.loves = ["Mathematics", "Physics", "Problem Solving", "Learning new stuff"]
+        self.status = "🎓 2nd-year B.Sc. in Applied Computer Science & AI @ Sapienza"
+        self.passions = ["Robotics", "Embedded Systems", "Computer Vision", "Game dev", "Compilers"]
 
     def skills_and_interests(self):
         """
-        Practical skills and fields I'm passionate about.
+        Practical tools, stacks, and fields I work with.
         """
         return [
-            "🤖 Embedded Systems (ESP32, Arduino, RPi, real-world interfacing, low-level programming)",
-            "🤖 Robotics (Sensors and Actuators interfacing, ROS2 fundamentals, Automation concepts)"
-            "🧠 Machine Learning (OpenCV, Edge TPU, TensorFlow basics, PyTorch basics, RAG)",
-            "📊 Data (NumPy, Pandas, Matplotlib, Seaborn)",
-            "🧱 C++ Add-ons (Dear ImGui)",
-            "🎮 Game Dev (Basics of Unity)",
-            "🌐 Web Dev (Flask, FastAPI)"
+            "🤖 Embedded & Systems (Linux, NVIDIA Jetson, Edge TPU, ESP32, Raspberry Pi)",
+            "🤖 Robotics (ROS 2, Behavior Trees, Sensor integration)",
+            "🧠 Computer Vision & AI (OpenCV, TensorRT deployment, YOLO)",
+            "💻 Core Languages (C/C++, Python, Java, Lua)",
+            "🧱 Tools & Workflow (Git, Docker, CMake)",
+            "🌐 Web & APIs (FastAPI, Flask)",
+            "🎮 Simulation & Graphics (JME3, basics of Unity, pixel shaders)"
         ]
 
     def currently_learning(self):
         """
-        Topics I'm diving into right now.
+        Topics I'm exploring and diving deeper into.
         """
         return [
-            "CUDA",
-            "OpenMP",
-            "Dart",
-            "Flutter",
-            "🎯 Algorithms & Competitive Programming"
+            "Advanced ROS 2 & Autonomous Navigation"
         ]
 
     def speak(self):
@@ -40,13 +36,3 @@ class Human:
 
 me = Human()
 me.speak()
-```
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lor7&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lor7&theme=tokyonight" width="48%" />
-</p>
----
